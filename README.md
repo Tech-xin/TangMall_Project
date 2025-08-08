@@ -1,25 +1,30 @@
 # mall
 
 <p>
-  <a href="#公众号"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-macrozheng-blue.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E4%BA%A4%E6%B5%81-%E5%BE%AE%E4%BF%A1%E7%BE%A4-2BA245.svg" alt="交流"></a>
-  <a href="https://github.com/macrozheng/mall-learning"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B-mall--learning-green.svg" alt="学习教程"></a>
-  <a href="https://github.com/macrozheng/mall-swarm"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/Cloud%E7%89%88%E6%9C%AC-mall--swarm-brightgreen.svg" alt="SpringCloud版本"></a>
-  <a href="https://github.com/macrozheng/mall-admin-web"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE-mall--admin--web-green.svg" alt="前端项目"></a>
-  <a href="https://gitee.com/macrozheng/mall"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E7%A0%81%E4%BA%91-%E9%A1%B9%E7%9B%AE%E5%9C%B0%E5%9D%80-orange.svg" alt="码云"></a>
-</p>
-
-## 友情提示
-
-> 1. **快速体验项目**：[在线访问地址](https://www.macrozheng.com/admin/index.html) 。
-> 2. **全套学习教程**：[《mall学习教程》](https://www.macrozheng.com) 。
-> 3. **微服务版本**：基于Spring Cloud 2021 & Alibaba的项目：[mall-swarm](https://github.com/macrozheng/mall-swarm) 。
-> 4. **专属学习路线**：学习不走弯路，整理了套非常不错的[《mall专属学习路线》](#公众号) 。
-> 5. **项目交流**：想要加群交流项目的朋友，可以加入[mall项目交流群](#公众号) 。
 
 ## 前言
 
 `mall`项目致力于打造一个完整的电商系统，采用现阶段流行技术实现。
+# TangMall_Project
+
+本项目基于 [macrozheng/mall](https://github.com/macrozheng/mall) 修改，并由我个人上传至 GitHub，用于学习与展示目的。
+
+**唐猫电商平台** 是一个基于 SpringBoot + Vue + uni-app 的电商服务系统，  
+包含前台商城系统和后台管理系统两部分，支持多端部署与模块化开发。
+
+## 功能特点
+
+- 🔧 基于 SpringBoot 的微服务架构
+- 🛒 前台模块：首页、商品搜索、购物车、会员中心等
+- ⚙️ 后台模块：商品管理、订单管理、营销活动、运营管理、统计报表等
+- 📱 前端使用 uni-app 支持多平台
+- 🚀 集成 ElasticSearch、RabbitMQ、Redis、MinIO 等组件
+
+## 作者
+
+Jessie | [GitHub 主页](https://github.com/Tech-xin)
+
+> 注：本项目仅作学习用途，所有版权归原作者所有。
 
 ## 项目文档
 
@@ -192,13 +197,6 @@ mall
 - 读写分离解决方案请参考：[你还在代码里做读写分离么，试试这个中间件吧](https://www.macrozheng.com/project/gaea.html);
 - Redis集群解决方案请参考：[Docker环境下秒建Redis集群](https://www.macrozheng.com/blog/redis_cluster.html) 。
 
-## 公众号
-
-学习不走弯路，关注公众号「**macrozheng**」，回复「**学习路线**」，获取mall项目专属学习路线！
-
-加微信群交流，公众号后台回复「**加群**」即可。
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
 
 ## 许可证
 
